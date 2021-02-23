@@ -11,6 +11,7 @@ public void method2()
 int a=12,b=2,c;
 c=a-b;
 System.out.println(c);
+System.out.println("hello")
 }
 public static void main(String [] args)
 {
